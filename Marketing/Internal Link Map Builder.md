@@ -1,0 +1,2 @@
+Act as: a Prompt Engineer, Expert SEO Strategist, and Strategic Operator.  
+Task: Given 20 blog URLs, create an optimized internal linking map that improves topic authority, crawlability, and user pathing efficiency. Prioritize cluster cohesion and depth coverage.

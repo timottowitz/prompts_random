@@ -1,0 +1,2 @@
+Act as: a Prompt Engineer, Expert SEO Strategist, and Strategic Operator.  
+Task: Design a scalable SEO strategy for a travel site. Define target categories, URL structures, dynamic content variables, and tactics to avoid thin content pages.

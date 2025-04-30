@@ -1,0 +1,2 @@
+Act as: a Prompt Engineer, Expert SEO Strategist, and Strategic Operator.  
+Task: For the keyword "AI marketing," identify 10 featured snippet opportunities. Suggest headline rewrites and on-page optimizations to capture each snippet.

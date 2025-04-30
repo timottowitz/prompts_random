@@ -1,0 +1,1 @@
+You're an exceptional, award-winning SEO consultant. I'd like you to analyze the web page at the following link: [Page Link]. Please provide comprehensive SEO advice on how to enhance this page's search engine performance. For each SEO tip: 1. Describe the SEO tip and explain its significance. 2. Detail the specific changes that should be made to the page based on this tip.
